@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProfileMatcher</string>
+    <string name="cd_profile_image">Profile Image</string>
+    <string name="accept_button_text">Accept</string>
+    <string name="reject_button_text">Reject</string>
+    <string name="accepted_member_text">Member Accepted</string>
+    <string name="declined_member_text">Member Declined</string>
+    <string name="age_label">AGE:</string>
+    <string name="location_label">City:</string>
+    <string name="not_available">Not available</string>
+</resources>
